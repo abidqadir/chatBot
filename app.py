@@ -12,7 +12,7 @@ import os
 
 app = Flask(__name__)
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Add Your API"
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
 @app.route('/', methods=['GET', 'POST'])
