@@ -1,1 +1,7 @@
 chromadb
+Flask
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-vectorstores
+langchain-groq
